@@ -1,10 +1,10 @@
+
 ![Frame 58](https://user-images.githubusercontent.com/77648727/110423056-400b7400-8055-11eb-86a6-4bd3f52c85bc.png)
 
 # Name 
-Git It Done         
-![Frame 59](https://user-images.githubusercontent.com/77648727/110423470-f1120e80-8055-11eb-920f-f0b8b60f0bc7.png)
+Git It Done          
 
-
+![Frame 60](https://user-images.githubusercontent.com/77648727/110560471-e8bfdf00-80fa-11eb-8dde-2dd2b083bddf.png)
 
 ### Live Application Link :eyes:
 See live application [here]
