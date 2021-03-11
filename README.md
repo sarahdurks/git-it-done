@@ -3,7 +3,7 @@
 ![Frame 58](https://user-images.githubusercontent.com/77648727/110423056-400b7400-8055-11eb-86a6-4bd3f52c85bc.png)
 
 # Name 
-### Git It Done   
+## Git It Done   
 
 ### Description
 An application that allows a user to search for details about other Github users, returning details about available repos, open issues, and more.
